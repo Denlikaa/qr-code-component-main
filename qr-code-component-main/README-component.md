@@ -56,7 +56,7 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-As a beginner, there's a lot to still learn but i would like to learn how to use :root and some other interesting css styles that saves you the stress of too much code.
+As a beginner, there's a lot to still learn but i would like to learn how to use :root and some other interesting css styles that saves you the stress of too much code. I also had issues with the github page setup because it kept showing 404, page not found.So i had to bring them out of the folder.
 
 ## Author
 
